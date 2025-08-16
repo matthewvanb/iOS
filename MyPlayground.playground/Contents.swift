@@ -232,4 +232,4 @@ for os in platforms {
     print("Swift works great on \(os)!")
 }
 
-//This is the last git test
+//Thankfully Git Works!
